@@ -1,0 +1,9 @@
+cython
+tqdm
+msgpack
+pillow
+numpy
+scipy
+scikit-image
+gdown
+torchmetrics
