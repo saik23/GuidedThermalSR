@@ -1,5 +1,5 @@
 # TUPAC: Thermal Image Upsampling with Pixel Adaptive Convolutions
-### [Workshop](https://pbvs-workshop.github.io/index.html) | [Challenge Link](https://pbvs-workshop.github.io/challenge.html) | [Leaderboard](https://codalab.lisn.upsaclay.fr/competitions/9666#results)
+### [Paper](https://openaccess.thecvf.com/content/CVPR2023W/PBVS/papers/Rivadeneira_Thermal_Image_Super-Resolution_Challenge_Results_-_PBVS_2023_CVPRW_2023_paper.pdf) | [Workshop](https://pbvs-workshop.github.io/index.html) | [Challenge Link](https://pbvs-workshop.github.io/challenge.html) | [Leaderboard](https://codalab.lisn.upsaclay.fr/competitions/9666#results)
 
 ## Overview
 Code for CVPR-23 Workshop Challenge - Guided Thermal Image Upsampling Challenge submission.
